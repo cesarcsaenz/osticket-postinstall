@@ -204,6 +204,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/cesarcsaenz/osticket-postinstall/assets/153584649/136f0d07-a92d-495c-83ba-efe496b4754f" height="50%" width="50%" alt="New Help Topics configuration"/>
 </p>
 <br>
+
+## osTicket Documentation
 Links to Documentation in osTicket for the configurations above:
 
 - [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
