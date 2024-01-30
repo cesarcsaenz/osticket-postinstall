@@ -26,8 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ## Configuration Steps
 - Log in to your Help Desk portal with the credentials you created during the installation phase.
-</p>
-<img src="https://github.com/cesarcsaenz/osticket-postinstall/assets/153584649/24199b68-331a-4f3f-94fd-d4dfe99a73b0" height="40%" width="40%" alt="osticket-loginpage"/>
+<p>
+<img src="https://github.com/cesarcsaenz/osticket-postinstall/assets/153584649/4640181f-bd87-498c-9778-d70cc3ce166d" height="40%" width="40%" alt="osticket-loginpage"/>
 </p>
 <br>
 
