@@ -205,6 +205,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br>
 
+- Continue to add the following Help Topics:
+    - Personal Computer Issues
+    - Equipment Request
+    - Password Reset
+
 ## osTicket Documentation
 Links to Documentation in osTicket for the configurations above:
 
