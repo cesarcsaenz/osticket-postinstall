@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - In your portal ensure you run as the Administrator.
 - If "Agent Panel" is displayed, you are the Admin section. Otherwise, click on Admin Panel to see the Admin portal from which we are going to set up new configurations.
 </p>
-<img src="https://github.com/cesarcsaenz/osticket-postinstall/assets/153584649/fca4c2a2-4a32-4456-8642-7cabda22cc47" height="50%" width="50%" alt="osticket main page"/>
+<img src="https://github.com/cesarcsaenz/osticket-postinstall/assets/153584649/a710cc49-8ca9-487e-b20d-65087b312be5" height="50%" width="50%" alt="osticket main page"/>
 </p>
 <br>
 
