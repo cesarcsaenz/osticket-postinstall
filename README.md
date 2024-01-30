@@ -12,7 +12,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Internet Information Services (IIS)
 
 ## Operating Systems Used
-- Windows 10</b> (22H2)
+- Windows 10 (22H2)
 
 ## Post-Install Configuration Objectives
 - Configure new Roles
@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>
 
 - In your portal ensure you run as the Administrator.
-- If "Agent Panel" is displayed, you are, in fact, running as the Admin. Otherwise, click on Admin Panel to see the Admin portal from which we are going to set up new configurations.
+- If "Agent Panel" is displayed, you are the Admin section. Otherwise, click on Admin Panel to see the Admin portal from which we are going to set up new configurations.
 </p>
 <img src="https://i.imgur.com/racELsD.png" height="50%" width="50%" alt="osticket main page"/>
 </p>
@@ -52,7 +52,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>
 
 
-- You may edit its permission tickets settings: Permissions > Tickets and,  permission tasks settings: Permissions > Tasks
+- You may edit its permission tickets settings: Permissions > Tickets and, permission tasks settings: Permissions > Tasks
 </p>
 <img src="https://i.imgur.com/uDq4oqM.png" height="40%" width="40%" alt="New roles configuration"/>
 <img src="https://i.imgur.com/dxo957R.png" height="40%" width="40%" alt="New roles configuration"/>
@@ -66,7 +66,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br>
 
-- Name it :System Administrators" and keep its default settings.
+- Name it "System Administrators" and keep its default settings.
 </p>
 <img src="https://i.imgur.com/oCHbCAW.png" height="50%" width="50%" alt="New department configuration"/>
 </p>
@@ -101,13 +101,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 5. CONFIGURE NEW AGENTS (WORKERS
 - On the Admin Panel, go to Agents > Add New Agent.
-- We will create two agents: John Clear and Jane Doe.
+- Create two agents: John Clear and Jane Doe.
 </p>
 <img src="https://i.imgur.com/IbjdNJz.png" height="50%" width="50%" alt="New agents configuration"/>
 </p>
 <br>
 
-- Register John's full name and email address where users may reach him
+- Register John's full name and email address where users may reach him.
 - Then set his login credentials by setting a new password. Click "password".
 </p>
 <img src="https://i.imgur.com/1g8ucDv.png" height="50%" width="50%" alt="New agents configuration"/>
@@ -134,13 +134,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>
 
 ### >6. CONFIGURE NEW USERS (CUSTOMERS)
-- Switch to Agent Panel by clicking on it.
+- Switch to Agent Panel by clicking on "Agent Panel".
 </p>
 <img src="https://i.imgur.com/racELsD.png" height="50%" width="50%" alt="New USERS configuration"/>
 </p>
 <br>
 
-- I will create two users but you can create as many as you want.
+- Create two users, or you can create as many as you want.
 </p>
 <img src="https://i.imgur.com/lxX7CXC.png" height="50%" width="50%" alt="New users configuration"/>
 </p>
@@ -165,8 +165,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br>
 
-- I created 3 SLAs (SEV-A, SEV-B, SEV-C) with varying severity and deadlines to solving issues.
-- SEV-A is considered the most pressent issues that may severely impact the business operations. Thus I set its SLA to 1 hour.
+- Create 3 SLAs (SEV-A, SEV-B, SEV-C) with varying severity and deadlines to solving issues.
+- SEV-A is considered the most pressent issues that may severely impact the business operations. Set its SLA to 1 hour.
 </p>
 <img src="https://i.imgur.com/jY4Ybid.png" height="50%" width="50%" alt="New SLA configuration"/>
 </p>
@@ -186,7 +186,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br>
 
-- I named mine "Business Critical Outage" which is the most pressing issue. Name yours.
+- Name it "Business Critical Outage" which is the most pressing issue. (You can name yours as you like).
 </p>
 <img src="https://i.imgur.com/ddXJ1Fi.png" height="50%" width="50%" alt="New Help Topics configuration"/>
 </p>
